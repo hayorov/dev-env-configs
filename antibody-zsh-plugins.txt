@@ -1,0 +1,29 @@
+djui/alias-tips
+caarlos0/zsh-mkc
+zsh-users/zsh-completions
+caarlos0/zsh-open-github-pr
+
+# annotations are also allowed:
+robbyrussell/oh-my-zsh path:plugins/kubectl
+robbyrussell/oh-my-zsh path:plugins/ansible
+robbyrussell/oh-my-zsh path:plugins/colorize
+robbyrussell/oh-my-zsh path:plugins/git
+robbyrussell/oh-my-zsh path:plugins/golang
+robbyrussell/oh-my-zsh path:plugins/helm
+robbyrussell/oh-my-zsh path:plugins/httpie
+robbyrussell/oh-my-zsh path:plugins/pip
+robbyrussell/oh-my-zsh path:plugins/pipenv
+robbyrussell/oh-my-zsh path:plugins/python
+robbyrussell/oh-my-zsh path:plugins/rsync
+robbyrussell/oh-my-zsh path:plugins/tmux
+robbyrussell/oh-my-zsh path:plugins/vault
+robbyrussell/oh-my-zsh path:plugins/virtualenv
+robbyrussell/oh-my-zsh path:plugins/terraform
+
+zsh-users/zsh-completions
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-syntax-highlighting
+zsh-users/zsh-history-substring-search
+
+# theme
+denysdovhan/spaceship-prompt
